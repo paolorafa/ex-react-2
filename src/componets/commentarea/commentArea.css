@@ -1,0 +1,5 @@
+/* width */
+.my-scroll ::-webkit-scrollbar {
+  width: 20px;
+}
+

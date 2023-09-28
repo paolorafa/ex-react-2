@@ -1,0 +1,13 @@
+
+
+.my-card {
+    aspect-ratio: 1/1.5;
+}
+
+.my-border {
+    border: solid 2px red;
+}
+
+.button a{
+    color: white;
+}
